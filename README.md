@@ -19,13 +19,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Chanowz.Chanowz&left_color=darkred&right_color=darkred"  />
-</div>
-
-###
-
-<h4 align="left">Hello World</h4>
+<h4 align="center">Hello World</h4>
 
 ###
 
